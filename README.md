@@ -1,0 +1,2 @@
+# NoMoreManualMess
+NoMoreManualMess 表达了作者对手动管理资源的极度厌倦和渴望自动化的心情
